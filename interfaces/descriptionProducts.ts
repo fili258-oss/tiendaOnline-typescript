@@ -1,0 +1,3 @@
+interface DescriptionProducts{
+    getDescription():string;
+}
